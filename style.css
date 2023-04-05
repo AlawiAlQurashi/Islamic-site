@@ -766,3 +766,7 @@ footer {
 .up a {
     color: white;
 }
+.footer .social-icons a{
+    font-size: 1.3em;
+    padding: 0 13px 0 0;
+}
